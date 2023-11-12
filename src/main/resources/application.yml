@@ -1,0 +1,20 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://saifgr8:Buzzbuzz%40123@yourcluster.d6vsnm9.mongodb.net/KYF-DB
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: kyf.service1@gmail.com
+    password: ifxj cqyl dfyj impn
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+#logging:
+#  level:
+#    root: DEBUG
+

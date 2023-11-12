@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://saifgr8:Buzzbuzz%40123@yourcluster.d6vsnm9.mongodb.net/KYF-DB
+logging:
+  level:
+    root: DEBUG
